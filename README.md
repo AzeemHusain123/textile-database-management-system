@@ -1,11 +1,7 @@
 # Textile Database Management System
 
-**Course:** Database Systems / 3rd Semester  
+**Course:** Database Systems & OOP / 3rd Semester  
 **Project Type:** Desktop Application (C#) + SQL Server 2022  
-
-## Team Members  
-- Azeem Mohamed Husain — B22F0759CS142  
-- Faththima Misna — B22F0757AI142  
 
 ## Project Overview  
 This is a textile business-oriented database management system built using C# (Windows Forms) and Microsoft SQL Server 2022.  
